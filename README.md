@@ -54,4 +54,4 @@ The interactive Power BI dashboard provides insights into:
 
 ### Dashboard Preview
 
-![Coffee Sales Dashboard](images/dashboard.png)
+![Dashboard Preview](./IMAGES/dashboard.png)
