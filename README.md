@@ -39,3 +39,19 @@ The project covers:
 - Power BI
 - Git
 - GitHub
+
+---
+
+# 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides insights into:
+
+- Monthly Sales Trends
+- Peak Sales Hours
+- Store Performance
+- Product Category Analysis
+- Best-Selling Products
+
+### Dashboard Preview
+
+![Coffee Sales Dashboard](images/dashboard.png)
